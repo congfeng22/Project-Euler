@@ -1,2 +1,2 @@
 # Project-Euler
-Project Euler attempts
+Project Euler problems
